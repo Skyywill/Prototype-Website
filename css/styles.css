@@ -1,0 +1,176 @@
+
+a{
+  color:blue;
+}
+
+a:hover{
+  background-color:lightgreen;
+  color:white;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 3%;
+}
+
+a:visited{
+  text-decoration: none;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+
+.topheader{
+
+}
+
+.navigationBar{
+
+  height: 100px;
+  width: 1024px;
+  background-color: inherit;
+  position: relative;
+  bottom:90px;
+}
+
+.Logo{
+  color: #f70707;
+  font-size: 100px;
+  font-weight: bold;
+  width:400px;
+  height:100px;
+  top: 240px;
+  left:10px;
+  position: relative;
+}
+
+.footerImage{
+background-image:url("images/Grapesbg.jpg");
+height:100%;
+background-color:#cccccc;
+background-position: center;
+background-repeat: no-repeat;
+background-image: cover;
+width: 1024px;
+height: 150px;
+}
+
+.pricecontainer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-leftprice {
+  position: absolute;
+  font-size: 60px;
+  bottom: 8px;
+  left: 16px;
+  color: white;
+  font-weight: bold;
+  background-color: red;
+}
+
+#idHeader{
+  width: 1024px;
+  height: 500px;
+  border-radius: 0.5%;
+}
+
+#idnavigationBartext{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#Titletextsize{
+  color: white;
+  background-color: lightgreen;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius:3%;
+}
+
+#infotextmain{
+  color:red;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#infotextbigger{
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#info{
+  color:black;
+  font-size: 20px;
+}
+
+#infoheader{
+  font-size: 20px;
+  padding-top: 80px;
+}
+
+#Contactbackground{
+  background-color: lightblue;
+  width: 1024px;
+  height: 1200px;
+  margin-left: 430px;
+  padding-bottom: 40px;
+  position: relative;
+  box-shadow: 10px 10px 5px grey;
+}
+
+#weeklyspecialbg{
+  background-color: lightblue;
+  width: 1024px;
+  height: 2600px;
+  margin-left: 410px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+  box-shadow: 10px 10px 5px grey;
+  position: relative;
+}
+
+#descriptiontextfont{
+  font-size:40px;
+}
+
+#aboutusimage{
+  box-shadow: 5px 5px 5px grey;
+}
+
+#aboutusbg{
+  background-color: lightblue;
+  width: 1024px;
+
+  margin-left: 400px;
+  padding-right: 80px;
+  padding-top: 80px;
+  padding-bottom: 40px;
+  position: relative;
+  box-shadow: 10px 10px 5px grey;
+}
+
+#logobar{
+  position: relative;
+  margin-bottom: 30px;
+  top: 330px;
+  right: 340px;
+}
+
+#homebg{
+  background-color: lightblue;
+  width: 1024px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+#homemsg{
+  color: red;
+  font-size: 75px;
+  font-weight: bold;
+}
